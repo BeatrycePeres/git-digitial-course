@@ -1,2 +1,3 @@
 # git-digitial-course
-Estudando AdaCoders
+Estudando AdaCoders.
+Endereço do repositório https://github.com/BeatrycePeres/git-digitial-course.
