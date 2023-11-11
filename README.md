@@ -2,5 +2,5 @@
 Estudando AdaCoders.
 Endereço do repositório https://github.com/BeatrycePeres/git-digitial-course.
 
-comando git push
-comando git pull
+* comando git push
+* comando git pull
